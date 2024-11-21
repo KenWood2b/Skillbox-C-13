@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\AdditionalMaterialWpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\transferfundswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\transferfundswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|d:\\c#\\additionalmaterialwpfapp\\additionalmaterialwpfapp\\transferfundswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\transferfundswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\manageaccountswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\manageaccountswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmateriaclasslibrary\\accountconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74983F7-20AD-43F1-9E7E-02288AB6F657}|AdditionalMateriaClassLibrary\\AdditionalMateriaClassLibrary.csproj|solutionrelative:additionalmateriaclasslibrary\\accountconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|D:\\C#\\AdditionalMaterialWpfApp\\additionalmaterialwpfapp\\manageaccountswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DC326F-EECE-4B4C-8EF7-8B4DA5BA9490}|AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp.csproj|solutionrelative:additionalmaterialwpfapp\\manageaccountswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Account.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\Account.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Account.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:21:21.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\IClient.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\IClient.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\IClient.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:21:11.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\LogEntry.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\LogEntry.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\LogEntry.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:20:56.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountConverter.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\AccountConverter.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\AccountConverter.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\AccountConverter.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\AccountConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:46:25.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consultant.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Consultant.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\Consultant.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Consultant.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\Consultant.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:40:34.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Manager.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\Manager.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Manager.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:40:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Bank.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\Bank.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Bank.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:35:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Client.cs",
+              "RelativeDocumentMoniker": "AdditionalMateriaClassLibrary\\Client.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMateriaClassLibrary\\Client.cs",
+              "RelativeToolTip": "AdditionalMateriaClassLibrary\\Client.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwGIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:32:00.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddClientWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\AddClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\AddClientWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\AddClientWindow.xaml.cs",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\AddClientWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:14:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddClientWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\AddClientWindow.xaml",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\AddClientWindow.xaml",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\AddClientWindow.xaml",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\AddClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T15:13:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferFundsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\TransferFundsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\TransferFundsWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\TransferFundsWindow.xaml.cs",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\TransferFundsWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:38:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferFundsWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\TransferFundsWindow.xaml",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\TransferFundsWindow.xaml",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\TransferFundsWindow.xaml",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\TransferFundsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T15:38:18.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageAccountsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml.cs",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:37:04.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageAccountsWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\ManageAccountsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T15:36:25.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T14:42:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdditionalMaterialWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\AdditionalMaterialWpfApp\\AdditionalMaterialWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AdditionalMaterialWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:42:59.126Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

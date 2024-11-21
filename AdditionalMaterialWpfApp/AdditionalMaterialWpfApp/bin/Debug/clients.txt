@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Олег",
+    "LastName": "Пупктн",
+    "MiddleName": "Петрович",
+    "PhoneNumber": "777-888",
+    "Accounts": [
+      {
+        "Type": "Недепозитный",
+        "Balance": 1587945.0
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "FirstName": "Марина",
+    "LastName": "Люлюкова",
+    "MiddleName": "Игоревна",
+    "PhoneNumber": "123-456",
+    "Accounts": [
+      {
+        "Type": "Депозитный",
+        "Balance": 155555.0
+      }
+    ]
+  }
+]

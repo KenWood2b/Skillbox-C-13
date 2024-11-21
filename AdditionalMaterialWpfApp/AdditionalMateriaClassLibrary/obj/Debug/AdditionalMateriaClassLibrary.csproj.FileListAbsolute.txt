@@ -1,0 +1,9 @@
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\obj\Debug\AdditionalMateriaClassLibrary.csproj.AssemblyReference.cache
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\obj\Debug\AdditionalMateriaClassLibrary.csproj.CoreCompileInputs.cache
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\bin\Debug\AdditionalMateriaClassLibrary.dll
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\bin\Debug\AdditionalMateriaClassLibrary.pdb
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\obj\Debug\Addition.6B7A9728.Up2Date
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\obj\Debug\AdditionalMateriaClassLibrary.dll
+D:\C#\AdditionalMaterialWpfApp\AdditionalMateriaClassLibrary\obj\Debug\AdditionalMateriaClassLibrary.pdb
